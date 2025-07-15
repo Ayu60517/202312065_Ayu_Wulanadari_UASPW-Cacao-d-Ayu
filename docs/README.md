@@ -36,7 +36,7 @@ projek/
     └──semua file.php
 
 🗂️ Diagram ERD
-![ERD Diagram](docs/ERD_Cacao.jpg)
+![ERD Diagram](ERD_Cacao.jpg)
 
 📹 Video Demo
 Tonton demo penggunaan dan penjelasan proyek di:
