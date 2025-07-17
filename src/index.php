@@ -1,12 +1,17 @@
 <?php
-include 'koneksi.php';
 session_start();
 
-if (!isset($_SESSION['username'])) {
+// Cek apakah sudah login
+if (!isset($_SESSION['username']) || !isset($_SESSION['role'])) {
     header("Location: login.php");
     exit;
 }
 
-echo "<h2>Selamat datang, " . $_SESSION['username'] . "</h2>";
-echo "<a href='logout.php'>Logout</a>";
-?>
+// Arahkan berdasarkan role
+if ($_SESSION['role'] === 'admin') {
+    header("Location: dashboard.php");
+    exit;
+} else {
+    header("Location: home.php");
+    exit;
+}
