@@ -37,12 +37,7 @@ projek/
 
 ## 🗂️ Diagram ERD
 
-<<<<<<< HEAD
-🗂️ Diagram ERD
-![ERD Diagram](ERD_Cacao.jpg)
-=======
 ![ERD Diagram](docs/ERD_Cacao.jpg)
->>>>>>> 5f1881b (Update INSTALL.md, README.md, dan index.php)
 
 Diagram ini menunjukkan relasi antar tabel dalam database Cacao d’Ayu.
 
