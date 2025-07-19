@@ -45,6 +45,21 @@ Diagram ini menunjukkan relasi antar tabel dalam database Cacao d’Ayu.
 Tonton demo penggunaan dan penjelasan proyek:
 👉 [Klik untuk menonton di YouTube](https://youtu.be/sznGOmBTK8M?si=GbPN8_vovJHUQoEW)
 
+## 🌐 Link Hosting (Live Demo)
+Kunjungi versi live dari aplikasi Cacao d’Ayu:
+👉 [https://cacaodayu.my.id/login.php](https://cacaodayu.my.id/login.php)
+
+### 🔑 Akun Default untuk Uji Coba
+
+**Admin:**
+- Username: `admin`
+- Password: `admin`
+
+**Pengguna (User):**
+- Username: `Ayuwlnn`
+- Password: `aaaaa`
+
+
 ## Dibuat oleh
 - **Nama**: Ayu Wulanadari
 - **NIM**: 202312065
